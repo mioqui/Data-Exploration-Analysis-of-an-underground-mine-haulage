@@ -1,3 +1,3 @@
-# Analisis Datos de una base datos de Acarreo de una Mina subterranea
-# Data Analysis of an Underground Mine Haulage Data Base
+# Análisis exploración de datos de una DB Acarreo de una mina subterranea
+# Data Exploration Analysis of an Underground Mine Haulage BD
 
